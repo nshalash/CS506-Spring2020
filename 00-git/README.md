@@ -14,10 +14,6 @@ GitHub is a **website** that allows you to upload your git respositories online.
 
 Git is a **version control system**. It allows you to manage the history of your git repositories.
 
-<p>
-<img src="./images/git_github_difference.png" width="95%" height="95%" />
-</p>
-
 ## Pre-workshop Preparation
 
 #### Part 1:  [Software Installations](./exercises/installs.md) (Required)
@@ -56,3 +52,7 @@ Git is a **version control system**. It allows you to manage the history of your
 - fork/clone an organization's repo
 - add updates and submit a pull request
 
+### [Exercise 3](./exercises/exercise3.md): rebasing
+
+- git fetch/rebase vs git pull
+- edit and squash commits
